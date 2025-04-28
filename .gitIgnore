@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+yolov8x.pt
+*.DS_Store
+.DS_Store
